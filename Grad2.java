@@ -2,7 +2,6 @@ package demo3;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import javax.swing.*;
-
 public class Grad2 {
 	public static JFrame f;
 	public static JLabel l1,l2,l3;
